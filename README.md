@@ -122,13 +122,6 @@ public double getScariness() {
     return Math.max(0, Math.min(10, score));
 }
 
-📸 Screenshots (Optional)
-
-You can add images here later:
-
-![Main GUI](images/gui.png)
-![Add Movie Dialog](images/add_movie.png)
-
 📘 SDLC Summary
 Phase 1 — Logic
 
